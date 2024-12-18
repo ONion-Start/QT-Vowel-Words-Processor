@@ -71,10 +71,5 @@ Are You Excited About
 
 Проект распространяется под лицензией MIT. Подробнее см. файл LICENSE.
 
-## Контакты
 
-Если у вас есть вопросы или предложения, напишите нам:
-
-- Email: example@example.com
-- GitHub: [https://github.com/ONion-Start/QTF/tree/main]
 
