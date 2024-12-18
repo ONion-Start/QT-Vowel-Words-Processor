@@ -40,7 +40,7 @@ Vowel Words Processor — это приложение на основе Qt, ко
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/<ваш-репозиторий>/vowel-words-processor.git](https://github.com/ONion-Start/QTF/tree/main)
+   git clone (https://github.com/ONion-Start/QTF/tree/main)
    ```
 
 2. Откройте проектный файл в Qt Creator.
